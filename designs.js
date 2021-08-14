@@ -1,4 +1,4 @@
-// Implemenation instructions sourced from Udacity Knowledge Platform: 
+// Implementation instructions sourced from Udacity Knowledge Platform: 
 // 13/08/21 https://knowledge.udacity.com/questions/383750
 // Select color input
 var color = document.getElementById('colorPicker');
